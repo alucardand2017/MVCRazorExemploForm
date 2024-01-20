@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AULA 06 - APP PARA ENQUETES.props" />
+</Project>

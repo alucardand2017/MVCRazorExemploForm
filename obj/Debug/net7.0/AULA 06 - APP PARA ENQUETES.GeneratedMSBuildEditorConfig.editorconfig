@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AULA_06___APP_PARA_ENQUETES
+build_property.RootNamespace = AULA_06___APP_PARA_ENQUETES
+build_property.ProjectDir = D:\1_PROJETOS\PROJETO CANAL RICARDO MAROQUIO\AULA06APPENQUETES\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\1_PROJETOS\PROJETO CANAL RICARDO MAROQUIO\AULA06APPENQUETES
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/1_PROJETOS/PROJETO CANAL RICARDO MAROQUIO/AULA06APPENQUETES/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1_PROJETOS/PROJETO CANAL RICARDO MAROQUIO/AULA06APPENQUETES/Views/Home/Responder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXNwb25kZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1_PROJETOS/PROJETO CANAL RICARDO MAROQUIO/AULA06APPENQUETES/Views/Home/RespostaSucesso.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXNwb3N0YVN1Y2Vzc28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1_PROJETOS/PROJETO CANAL RICARDO MAROQUIO/AULA06APPENQUETES/Views/Home/Resultado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bHRhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1_PROJETOS/PROJETO CANAL RICARDO MAROQUIO/AULA06APPENQUETES/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1_PROJETOS/PROJETO CANAL RICARDO MAROQUIO/AULA06APPENQUETES/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
